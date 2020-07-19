@@ -2,8 +2,9 @@
   "name": "norasak-portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
+    "start": "node index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
